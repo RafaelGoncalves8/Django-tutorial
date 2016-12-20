@@ -1,6 +1,7 @@
 from django.db import models
 import datetime
 from django.utils import timezone
+from django.utils.encoding import python_2_unicode_compatible
 
 @python_2_unicode_compatible
 class Question(models.Model):
