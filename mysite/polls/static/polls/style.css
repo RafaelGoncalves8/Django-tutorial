@@ -1,8 +1,8 @@
 li a {
-    color: green;
+    color: lightgreen;
 }
 
 body {
-    background: white url("images/background.gif") no-repeat center bottom;
+    background: white url("images/background.gif") no-repeat center center;
 
 }    
